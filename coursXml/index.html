@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let request = "../xml/example.xml";
+
+        LoadData(request)
+             .then(data =>{
+                 console.log(data);
+                 let foods = data.getElementsByTagName("food");
+            //     let names = data.getElementsByTagName("name");
+
+            //     for (let i=0; i<names.length; i++){
+            //         let value = names[i].textContent;
+            //         console.log(value)
+            //     }
+                
+            for (let i=0; i<foods.length; i++){
+                let food = foods[i];
+                for(let j=0; j<food.childNodes.length; j++){
+                    let node = food.childNodes[j];
+                    console.log(node.textContent);
+                }
+            }
+
+
+
+             })
+            .catch(e =>{
+                console.error(e);
+            })
+
+        async function LoadData(request){
+            const response  = await fetch(request);
+            const rawdata   = await response.text();
+            const xml       = await new window.DOMParser().parseFromString(rawdata,"text/xml");
+            return xml;
+        }
+    </script>
+</body>
+</html>
