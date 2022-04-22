@@ -1,0 +1,705 @@
+{
+    "caption": "Disciplines au programme des Jeux de Paris[33].\n",
+    "headers": [
+        "Sports/disciplines\n",
+        "Hommes\n",
+        "Femmes\n",
+        "Mixtes\n",
+        "Total\n"
+    ],
+    "disciplines": [
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Athletics_pictogram.svg/20px-Athletics_pictogram.svg.png"
+            ],
+            "names": [
+                "Athlétisme"
+            ],
+            "men": [
+                "23"
+            ],
+            "women": [
+                "23"
+            ],
+            "mixt": [
+                "2"
+            ],
+            "total": [
+                "48"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Rowing_pictogram.svg/20px-Rowing_pictogram.svg.png"
+            ],
+            "names": [
+                "Aviron"
+            ],
+            "men": [
+                "7"
+            ],
+            "women": [
+                "7"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "14"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Badminton_pictogram.svg/20px-Badminton_pictogram.svg.png"
+            ],
+            "names": [
+                "Badminton"
+            ],
+            "men": [
+                "2"
+            ],
+            "women": [
+                "2"
+            ],
+            "mixt": [
+                "1"
+            ],
+            "total": [
+                "5"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Basketball_pictogram.svg/20px-Basketball_pictogram.svg.png"
+            ],
+            "names": [
+                "Basket-ball",
+                "5 × 5",
+                "3 × 3"
+            ],
+            "men": [
+                "211"
+            ],
+            "women": [
+                "211"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "422"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Boxing_pictogram.svg/20px-Boxing_pictogram.svg.png"
+            ],
+            "names": [
+                "Boxe"
+            ],
+            "men": [
+                "7"
+            ],
+            "women": [
+                "6"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "13"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Breakdancing_pictogram.svg/20px-Breakdancing_pictogram.svg.png"
+            ],
+            "names": [
+                "Breakdance"
+            ],
+            "men": [
+                "1"
+            ],
+            "women": [
+                "1"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "2"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canoeing_%28flatwater%29_pictogram.svg/20px-Canoeing_%28flatwater%29_pictogram.svg.png",
+                "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canoeing_%28slalom%29_pictogram.svg/20px-Canoeing_%28slalom%29_pictogram.svg.png"
+            ],
+            "names": [
+                "Canoë-kayak",
+                "Course en ligne",
+                "Slalom"
+            ],
+            "men": [
+                "853"
+            ],
+            "women": [
+                "853"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "16106"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Cycling_%28road%29_pictogram.svg/20px-Cycling_%28road%29_pictogram.svg.png",
+                "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cycling_%28track%29_pictogram.svg/20px-Cycling_%28track%29_pictogram.svg.png",
+                "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Cycling_%28mountain_biking%29_pictogram.svg/20px-Cycling_%28mountain_biking%29_pictogram.svg.png",
+                "//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cycling_%28BMX%29_pictogram.svg/20px-Cycling_%28BMX%29_pictogram.svg.png"
+            ],
+            "names": [
+                "Cyclisme",
+                "Cyclisme sur route",
+                "Cyclisme sur piste",
+                "VTT",
+                "BMX"
+            ],
+            "men": [
+                "112612"
+            ],
+            "women": [
+                "112612"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "2241224"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Equestrian_pictogram.svg/20px-Equestrian_pictogram.svg.png"
+            ],
+            "names": [
+                "Équitation",
+                "Saut d'obstacles",
+                "Dressage",
+                "Concours complet"
+            ],
+            "men": [
+                ""
+            ],
+            "women": [
+                ""
+            ],
+            "mixt": [
+                "6222"
+            ],
+            "total": [
+                "6222"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Climbing_pictogram.svg/20px-Climbing_pictogram.svg.png"
+            ],
+            "names": [
+                "Escalade"
+            ],
+            "men": [
+                "2"
+            ],
+            "women": [
+                "2"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "4"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Fencing_pictogram.svg/20px-Fencing_pictogram.svg.png"
+            ],
+            "names": [
+                "Escrime"
+            ],
+            "men": [
+                "6"
+            ],
+            "women": [
+                "6"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "12"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Football_pictogram.svg/20px-Football_pictogram.svg.png"
+            ],
+            "names": [
+                "Football"
+            ],
+            "men": [
+                "1"
+            ],
+            "women": [
+                "1"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "2"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Golf_pictogram.svg/20px-Golf_pictogram.svg.png"
+            ],
+            "names": [
+                "Golf"
+            ],
+            "men": [
+                "1"
+            ],
+            "women": [
+                "1"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "2"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gymnastics_%28artistic%29_pictogram.svg/20px-Gymnastics_%28artistic%29_pictogram.svg.png",
+                "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gymnastics_%28rhythmic%29_pictogram.svg/20px-Gymnastics_%28rhythmic%29_pictogram.svg.png",
+                "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Gymnastics_%28trampoline%29_pictogram.svg/20px-Gymnastics_%28trampoline%29_pictogram.svg.png"
+            ],
+            "names": [
+                "Gymnastique",
+                "Gymnastique artistique",
+                "Gymnastique rythmique",
+                "Trampoline"
+            ],
+            "men": [
+                "981"
+            ],
+            "women": [
+                "9621"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "181422"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Weightlifting_pictogram.svg/20px-Weightlifting_pictogram.svg.png"
+            ],
+            "names": [
+                "Haltérophilie"
+            ],
+            "men": [
+                "5"
+            ],
+            "women": [
+                "5"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "10"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Handball_pictogram.svg/20px-Handball_pictogram.svg.png"
+            ],
+            "names": [
+                "Handball"
+            ],
+            "men": [
+                "1"
+            ],
+            "women": [
+                "1"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "2"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Field_hockey_pictogram.svg/20px-Field_hockey_pictogram.svg.png"
+            ],
+            "names": [
+                "Hockey sur gazon"
+            ],
+            "men": [
+                "1"
+            ],
+            "women": [
+                "1"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "2"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Judo_pictogram.svg/20px-Judo_pictogram.svg.png"
+            ],
+            "names": [
+                "Judo"
+            ],
+            "men": [
+                "7"
+            ],
+            "women": [
+                "7"
+            ],
+            "mixt": [
+                "1"
+            ],
+            "total": [
+                "15"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Wrestling_pictogram.svg/20px-Wrestling_pictogram.svg.png"
+            ],
+            "names": [
+                "Lutte",
+                "Libre",
+                "Gréco-romaine"
+            ],
+            "men": [
+                "1266"
+            ],
+            "women": [
+                "66 "
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "18126"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Swimming_pictogram.svg/20px-Swimming_pictogram.svg.png",
+                "//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Diving_pictogram.svg/20px-Diving_pictogram.svg.png",
+                "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Synchronized_swimming_pictogram.svg/20px-Synchronized_swimming_pictogram.svg.png",
+                "//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Water_polo_pictogram.svg/20px-Water_polo_pictogram.svg.png"
+            ],
+            "names": [
+                "Sports aquatiques",
+                "Natation",
+                "Plongeon",
+                "Natation synchronisée",
+                "Water-polo"
+            ],
+            "men": [
+                "231841"
+            ],
+            "women": [
+                "2518421"
+            ],
+            "mixt": [
+                "11 "
+            ],
+            "total": [
+                "4937822"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Modern_pentathlon_pictogram.svg/20px-Modern_pentathlon_pictogram.svg.png"
+            ],
+            "names": [
+                "Pentathlon moderne"
+            ],
+            "men": [
+                "1"
+            ],
+            "women": [
+                "1"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "2"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rugby_union_pictogram.svg/20px-Rugby_union_pictogram.svg.png"
+            ],
+            "names": [
+                "Rugby à sept"
+            ],
+            "men": [
+                "1"
+            ],
+            "women": [
+                "1"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "2"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Skateboarding_pictogram.svg/20px-Skateboarding_pictogram.svg.png"
+            ],
+            "names": [
+                "Skateboard"
+            ],
+            "men": [
+                "2"
+            ],
+            "women": [
+                "2"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "4"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Surfing_pictogram.svg/20px-Surfing_pictogram.svg.png"
+            ],
+            "names": [
+                "Surf"
+            ],
+            "men": [
+                "1"
+            ],
+            "women": [
+                "1"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "2"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Taekwondo_pictogram.svg/20px-Taekwondo_pictogram.svg.png"
+            ],
+            "names": [
+                "Taekwondo"
+            ],
+            "men": [
+                "4"
+            ],
+            "women": [
+                "4"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "8"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tennis_pictogram.svg/20px-Tennis_pictogram.svg.png"
+            ],
+            "names": [
+                "Tennis"
+            ],
+            "men": [
+                "2"
+            ],
+            "women": [
+                "2"
+            ],
+            "mixt": [
+                "1"
+            ],
+            "total": [
+                "5"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Table_tennis_pictogram.svg/20px-Table_tennis_pictogram.svg.png"
+            ],
+            "names": [
+                "Tennis de table"
+            ],
+            "men": [
+                "2"
+            ],
+            "women": [
+                "2"
+            ],
+            "mixt": [
+                "1"
+            ],
+            "total": [
+                "5"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Shooting_pictogram.svg/20px-Shooting_pictogram.svg.png"
+            ],
+            "names": [
+                "Tir",
+                "Carabine",
+                "Pistolet",
+                "Tir aux plateaux"
+            ],
+            "men": [
+                "6222"
+            ],
+            "women": [
+                "6222"
+            ],
+            "mixt": [
+                "3111"
+            ],
+            "total": [
+                "15555"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Archery_pictogram.svg/20px-Archery_pictogram.svg.png"
+            ],
+            "names": [
+                "Tir à l'arc"
+            ],
+            "men": [
+                "2"
+            ],
+            "women": [
+                "2"
+            ],
+            "mixt": [
+                "1"
+            ],
+            "total": [
+                "5"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Triathlon_pictogram.svg/20px-Triathlon_pictogram.svg.png"
+            ],
+            "names": [
+                "Triathlon"
+            ],
+            "men": [
+                "1"
+            ],
+            "women": [
+                "1"
+            ],
+            "mixt": [
+                "1"
+            ],
+            "total": [
+                "3"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sailing_pictogram.svg/20px-Sailing_pictogram.svg.png"
+            ],
+            "names": [
+                "Voile"
+            ],
+            "men": [
+                "3"
+            ],
+            "women": [
+                "3"
+            ],
+            "mixt": [
+                "4"
+            ],
+            "total": [
+                "10"
+            ]
+        },
+        {
+            "ico": [
+                "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Volleyball_%28indoor%29_pictogram.svg/20px-Volleyball_%28indoor%29_pictogram.svg.png",
+                "//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Volleyball_%28beach%29_pictogram.svg/20px-Volleyball_%28beach%29_pictogram.svg.png"
+            ],
+            "names": [
+                "Volley-ball",
+                "En salle",
+                "Beach-volley"
+            ],
+            "men": [
+                "211"
+            ],
+            "women": [
+                "211"
+            ],
+            "mixt": [
+                ""
+            ],
+            "total": [
+                "422"
+            ]
+        },
+        {
+            "ico": [],
+            "names": [
+                "Total"
+            ],
+            "men": [
+                "156"
+            ],
+            "women": [
+                "151"
+            ],
+            "mixt": [
+                "22"
+            ],
+            "total": [
+                "329"
+            ]
+        }
+    ]
+}

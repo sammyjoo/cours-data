@@ -1,0 +1,50 @@
+
+#datadisplay{
+background:black;
+color: white;
+
+}
+div{
+    display: flex;
+    flex-wrap:wrap ;
+    align-items: center;
+    justify-content: center;
+}
+
+.pixels{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.textes{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.contributors{
+    overflow: auto;
+}
+
+h1{
+    color: tomato;
+    width: 600px;
+    text-align: center;
+}
+
+h2{
+    color: yellowgreen;
+    font-size: xxx-large;
+}
+
+p {
+    display: flex;
+    justify-items: center;
+    text-align: center;
+    font-size: large;
+
+}
